@@ -24,7 +24,7 @@ export default function Footer() {
                 </div>
             </div>
             <div class="footer-copyright text-center py-3">© 2022 Copyright:
-                <a href="/"> outfitters.com</a> 
+                <a href="/"> outfitters.com</a>
             </div>
         </footer>
     )
